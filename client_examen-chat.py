@@ -1,3 +1,4 @@
+#https://github.com/JulienWeber67/tp-test-prog
 import socket
 
 host = "localhost" # "", "127.0.0.1

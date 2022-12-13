@@ -40,6 +40,7 @@ class TextEditDemo(QWidget):
     def btnPress1_Clicked(self):
         self.btnPress1.setText("Arrêt du serveur")
 
+
     def btnPress2_Clicked(self):
         QCoreApplication.exit(0)
 
